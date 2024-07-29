@@ -40,6 +40,6 @@ K-Means is useful for segmenting customers into distinct groups based on their p
 
 **Possible Churn (Possível Churn):** These customers have purchased at most once or twice a long time ago and have a very low average ticket value. They are highly likely to abandon the company and should be contacted by phone and through marketing campaigns to try to re-engage them.
 
-![Alt text](Customer Classification Result.png)
+![Customer Classification Result.png](https://github.com/lucassigoli/Machine-Learning-Churn-Analysis-Clusterization/blob/main/Customer%20Classification%20Result.png)
 
 **REFERENCE:** https://www.linkedin.com/pulse/an%C3%A1lise-rfv-com-python-clusteriza%C3%A7%C3%A3o-de-clientes-machine-lima--ewmzf/
