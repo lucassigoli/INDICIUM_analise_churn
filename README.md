@@ -4,6 +4,7 @@ This project aims to classify the 89 customers of a specific company using the K
 
 
 ### **THE RFM METHOD:**
+
 Recency – Indicates when the last order was made by each customer.
 
 Frequency – Indicates how many times the customer has purchased from the company.
