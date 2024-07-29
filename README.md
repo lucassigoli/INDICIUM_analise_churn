@@ -21,17 +21,21 @@ The K-Means algorithm is a popular clustering method used in machine learning. I
 ## **STEPS OF K-MEANS:**
 
 **Initialization:** Select k initial centroids randomly.
+
 **Assignment:** Assign each data point to the nearest centroid, forming k clusters.
+
 **Update:** Calculate the new centroids as the mean of the data points in each cluster.
+
 **Repeat:** Repeat the assignment and update steps until the centroids no longer change or change minimally.
+
 K-Means is useful for segmenting customers into distinct groups based on their purchasing behavior, which can help in targeted marketing and improving customer satisfaction.
 
 
 ## **RESULTS:**
-**Clientes Premium (Premium Clients):** These customers have purchased within the last month, have a high purchase frequency, and an extremely high average ticket value. They are extremely valuable to the company and should be constantly monitored to ensure their continued satisfaction with the company's services.
+**Premium Clients (Clientes Premium):** These customers have purchased within the last month, have a high purchase frequency, and an extremely high average ticket value. They are extremely valuable to the company and should be constantly monitored to ensure their continued satisfaction with the company's services.
 
-**Clientes Muito Bons (Very Good Clients):** These customers last purchased between 1 and 2 months ago, buy frequently, and have a high average ticket value. They are also valuable customers who require constant monitoring. The main difference compared to Premium customers is the average ticket value.
+**Very Good Clients (Clientes Muito Bons):** These customers last purchased between 1 and 2 months ago, buy frequently, and have a high average ticket value. They are also valuable customers who require constant monitoring. The main difference compared to Premium customers is the average ticket value.
 
-**Clientes Bons (Good Clients):** These customers last purchased between 2 and 3 months ago, buy with reasonable frequency, and have a reasonable average ticket value. These customers demand attention but are not a priority for the company.
+**Good Clients (Clientes Bons):** These customers last purchased between 2 and 3 months ago, buy with reasonable frequency, and have a reasonable average ticket value. These customers demand attention but are not a priority for the company.
 
-**Possível Churn (Possible Churn):** These customers have purchased at most once or twice a long time ago and have a very low average ticket value. They are highly likely to abandon the company and should be contacted by phone and through marketing campaigns to try to re-engage them.
+**Possible Churn (Possível Churn):** These customers have purchased at most once or twice a long time ago and have a very low average ticket value. They are highly likely to abandon the company and should be contacted by phone and through marketing campaigns to try to re-engage them.
