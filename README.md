@@ -3,7 +3,7 @@
 This project aims to classify the 89 customers of a specific company using the K-Means algorithm, a machine learning clustering method. From the database, we will use only two spreadsheets: “orders.csv” and “order_details.csv”. With these, we will apply the RFM (Recency, Frequency, and Monetary) method.
 
 
-### **THE RFV METHOD:**
+### **THE RFM METHOD:**
 Recency – Indicates when the last order was made by each customer.
 
 Frequency – Indicates how many times the customer has purchased from the company.
