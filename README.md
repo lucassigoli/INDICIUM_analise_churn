@@ -42,6 +42,6 @@ K-Means is useful for segmenting customers into distinct groups based on their p
 
 **CUSTOMER SEGMENTATION:**
 
-![Customer Classification Result.png](https://github.com/lucassigoli/Machine-Learning-Churn-Analysis-Clusterization/blob/main/Customer%20Classification%20Result.png)
+![Customer Classification Result.png](https://github.com/lucassigoli/Imagens/blob/main/Customer%20Classification%20Result.png)
 
 **REFERENCE:** https://www.linkedin.com/pulse/an%C3%A1lise-rfv-com-python-clusteriza%C3%A7%C3%A3o-de-clientes-machine-lima--ewmzf/
