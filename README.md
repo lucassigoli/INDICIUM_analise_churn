@@ -3,13 +3,13 @@
 This project aims to classify the 89 customers of a specific company using the K-Means algorithm, a machine learning clustering method. From the database, we will use only two spreadsheets: “orders.csv” and “order_details.csv”. With these, we will apply the RFM (Recency, Frequency, and Monetary) method.
 
 
-### **THE RFM METHOD:**
+## **THE RFM METHOD:**
 
-Recency – Indicates when the last order was made by each customer.
+**Recency –** Indicates when the last order was made by each customer.
 
-Frequency – Indicates how many times the customer has purchased from the company.
+**Frequency –** Indicates how many times the customer has purchased from the company.
 
-Monetary – Indicates the average ticket price of the customer’s orders.
+**Monetary –** Indicates the average ticket price of the customer’s orders.
 
 Using the values from these three categories for each customer, we standardize the data and apply the K-Means algorithm to classify them into four different groups:
 
@@ -23,11 +23,11 @@ Using the values from these three categories for each customer, we standardize t
 **Possível Churn (Possible Churn):** These customers have purchased at most once or twice a long time ago and have a very low average ticket value. They are highly likely to abandon the company and should be contacted by phone and through marketing campaigns to try to re-engage them.
 
 
-### **K-MEANS ALGORITHM:**
+## **K-MEANS ALGORITHM:**
 The K-Means algorithm is a popular clustering method used in machine learning. It aims to partition n observations into k clusters, where each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster.
 
 
-### **STEPS OF K-MEANS:**
+## **STEPS OF K-MEANS:**
 
 **Initialization:** Select k initial centroids randomly.
 **Assignment:** Assign each data point to the nearest centroid, forming k clusters.
